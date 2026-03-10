@@ -1,0 +1,9 @@
+title = "Hashir Jaffry"          # This becomes the big name on the homepage
+
+[params.author]
+  name = "Hashir Jaffry"
+  email = "Hashir.jaffry@gmail.com"
+  twitter = "@habibihashir"     # your X handle
+
+[params]
+  mainSections = ['essays']  # sections shown on homepage
